@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reazul Islam</h1>
-<h3 align="center">I am a junior Web Designer and Developer from Bangladesh</h3>
+<h3 align="center">I am a junior Front-End Web Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reazul7&label=Profile%20views&color=0e75b6&style=flat" alt="reazul7" /> </p>
 
