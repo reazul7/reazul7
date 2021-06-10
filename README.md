@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74084859/121538601-bb027300-ca26-11eb-9eab-e3d3965173d8.png)
 <h1 align="center">Hi 👋, I'm Reazul Islam</h1>
 <h3 align="center">I am a junior MERN Stack Web Developer</h3>
-<img align="right"   src="https://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" alt="coding"  width="500" height="400" />
+<img align="right"   src="https://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" alt="coding"  width="400" height="350" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reazul7&label=Profile%20views&color=0e75b6&style=flat" alt="reazul7" /> </p>
 
