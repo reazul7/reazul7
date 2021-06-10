@@ -38,3 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reazul7&" alt="reazul7" /></p>
 
+<p align="center"> I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊</P>
