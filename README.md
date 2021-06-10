@@ -2,19 +2,19 @@
 <h1 align="center">Hi 👋, I'm Reazul Islam</h1>
 <h3 align="center">I am a junior MERN Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **Reactjs**
+- 🔭 I’m currently working on **Reactjs, JavaScript, Nodejs, Expressjs, MongoDB**
 
 - 🌱 I’m currently learning **Redux, React Native**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-8a25a.web.app/](portfolio-7dab2.web.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-8a25a.web.app/)
 
 - 💬 Ask me about **JavaScript, ES6, React**
 
-- 📫 How to reach me **anikaa137@gmail.com**
+- 📫 How to reach me **reazul.islam.cse@gmail.com**
 
-- 📄 Know about my experiences
+- 📄 Know about my experiences [See My Resume](https://drive.google.com/file/d/1LJmqJk2MoqLS6yNC_oBBN5_156Xa2h0t/view?usp=sharing)  || [Download Resume](https://drive.google.com/uc?export=download&id=1LJmqJk2MoqLS6yNC_oBBN5_156Xa2h0t)
 
 - 🌱 I’m currently learning **React, React Native**
 
