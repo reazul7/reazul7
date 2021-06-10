@@ -3,7 +3,9 @@
 <h3 align="center">I am a junior MERN Stack Web Developer</h3>
 
 - 🌱 I’m currently learning **React, React Native**
+
 - 📫 How to reach me **reazul.islam.cse@gmail.com**
+
 - ⚡ Fun fact **I love to play games**
 
 <h3 align="left">Connect with me:</h3>
