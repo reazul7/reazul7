@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reazul7" alt="reazul7" /></a> </p>
 
-- 🌱 I’m currently learning **React, React Native, Node.js, **
+- 🌱 I’m currently learning **React, React Native**
 
 - 📫 How to reach me **reazul.islam.cse@gmail.com**
 
