@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-7dab2.web.app/](https://portfolio-7dab2.web.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-8a25a.web.app/](portfolio-7dab2.web.app/)
 
 - 💬 Ask me about **JavaScript, ES6, React**
 
