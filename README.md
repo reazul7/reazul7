@@ -14,11 +14,7 @@
 
 - 📫 How to reach me **reazul.islam.cse@gmail.com**
 
-- 📄 Know about my experiences [See My Resume](https://drive.google.com/file/d/1LJmqJk2MoqLS6yNC_oBBN5_156Xa2h0t/view?usp=sharing)  || [Download Resume](https://drive.google.com/uc?export=download&id=1LJmqJk2MoqLS6yNC_oBBN5_156Xa2h0t)
-
-- 🌱 I’m currently learning **React, React Native**
-
-- 📫 How to reach me **reazul.islam.cse@gmail.com**
+- 📄 Know about my experiences <b>[See My Resume](https://drive.google.com/file/d/1LJmqJk2MoqLS6yNC_oBBN5_156Xa2h0t/view?usp=sharing)  || [Download Resume](https://drive.google.com/uc?export=download&id=1LJmqJk2MoqLS6yNC_oBBN5_156Xa2h0t)</b>
 
 - ⚡ Fun fact **I love to play games**
 
@@ -27,12 +23,8 @@
 <a href="https://github.com/reazul7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"alt="reazul7" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/reazul7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reazul islam bhuiyan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/reazul.islam.1426876/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Reazul Islam" height="30" width="40" /></a>
-  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' title="Github" height='40'>](https://github.com/reazul7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' title="linkedin" alt='linkedin' height='40'>](https://www.linkedin.com/in/reazul7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' title="facebook" height='40'>](https://www.facebook.com/reazul.islam.1426876/) 
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reazul7&label=Profile%20views&color=0e75b6&style=flat" alt="reazul7" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reazul7" alt="reazul7" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
