@@ -62,6 +62,7 @@
 - **Trello**
 
 
+
 ## Connect with me:
 <p align="left">
 <a href="https://github.com/reazul7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"alt="reazul7" height="30" width="40" /></a>
@@ -70,6 +71,8 @@
 <a href="https://portfolio-8a25a.web.app/" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" alt="Reazul Islam" height="35" width="40" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reazul7" alt="reazul7" /></a> </p>
+
+
 
 
 ## Languages and Tools:
