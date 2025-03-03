@@ -24,12 +24,13 @@
 ## Skills
 ### Front-End Technology :
 - **JavaScript (ES6)**
-- **React**
+- **ReactJS**
+- **NextJS**
+- **Laravel Blade**
 - **HTML, CSS**
 - **Bootstrap**
 - **Tailwind CSS**
 - **Material UI**
-- **jQuery**
 - **React Native**
 
 
@@ -40,6 +41,7 @@
 
 ### Databas : 
 - **MongoDB**
+- **Mongoose**
 - **MySQL**
 
 
@@ -54,6 +56,7 @@
 - **VS Code**
 - **CodeBlobks**
 - **XAMPP**
+- **Postman**
 - **React Dev.Tools**
 
 
@@ -71,7 +74,7 @@
 <a href="https://portfolio-8a25a.web.app/" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" alt="Reazul Islam" height="35" width="40" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reazul7" alt="reazul7" /></a> </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reazul7)](https://git.io/streak-stats)
+<p align="left"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=reazul7" alt="GitHub Streak" /></a> </p>
 
 
 
