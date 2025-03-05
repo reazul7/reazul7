@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reazul7&label=Profile%20views&color=0e75b6&style=flat" alt="reazul7" /> </p>
 
-- 🔭 I’m currently working on **JavaScript, ReactJS, NodeJS, ExpressJS**
+- 🔭 I’m currently working on **ReactJS, NextJS, Laravel Blade**
 
-- 🌱 I’m currently learning **Redux, React Native**
+- 🌱 I’m currently learning **Mongoose**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
