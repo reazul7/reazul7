@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio-8a25a.web.app/)
 
-- 💬 Ask me about **JavaScript, ES6, React**
+- 💬 Ask me about **JavaScript, ES6, React, Laravel Blade**
 
 - 📫 How to reach me **islamreazul7777@gmail.com**
 
@@ -30,6 +30,8 @@
 - **HTML, CSS**
 - **Bootstrap**
 - **Tailwind CSS**
+- **DaisyUI**
+- **Ant Design**
 - **Material UI**
 - **React Native**
 
